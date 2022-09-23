@@ -14,3 +14,7 @@ git push -u origin main
 git remote add origin https://github.com/ALORRIENAR/Seminar3.git
 git branch -M main
 git push -u origin main
+
+## Git Teams - Collaborate and update projects
+
+**git fetch** - Команда git fetch связывается с удалённым репозиторием и забирает из него все изменения, которых у вас пока нет и сохраняет их локально.
